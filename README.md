@@ -10,4 +10,4 @@ We want to found the perfect food at perfect moment.
 - Vegetarian or Meat based
 - Fastfood, restaurant or homemade
 - Sweet or salty
-- Found a reciept for homemade food (make a cake, prepare some juicy potatoes....)
+- Found a receipt for homemade food (make a cake, prepare some juicy potatoes....)
